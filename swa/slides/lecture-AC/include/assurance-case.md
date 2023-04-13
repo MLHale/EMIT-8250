@@ -80,7 +80,7 @@ background-image: url(images/black.png)
 ???
 We also not sure if there is a cat there to begin with!
 ## Source:   
-The cat example is adapted from the example provided in System Assurance: Beyond Detecting Vulnerabilities (The MK/OMG Press) 1st Edition, by Nikolai Mansourov  and Djenana Campara https://amzn.com/0123814146
+The cat example is adapted from the example provided in System Assurance: Beyond Detecting Vulnerabilities (The MK/OMG Press) 1st Edition, by Nikolai Mansourov  and Djenana Campara https://www.amazon.com/System-Assurance-Beyond-Detecting-Vulnerabilities/dp/0123814146
 ---
 class:middle
 # Task at hand
