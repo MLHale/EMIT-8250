@@ -491,7 +491,7 @@ class: middle
 class: middle
 # Elaborating the Claim
 
-## .green[Additional information] that is excluded from the claim or evidence
+## .green[Additional information] that is excluded from the claim
 - Context (understanding)
 - Justification (rationale)
 
@@ -502,19 +502,13 @@ class: middle
 ## Information necessary for a claim to be understood or amplified
 - Includes a statement that defines the .red[scope] of the claim
 - Provides means to check .red[satisfaction] of the claim
-
-## Examples
-- External references, Definitions, Clarification of myths
-- Security considerations for supply chain processes per NIST SP 800-160
+- External references or Definitions
 
 ---
 class: middle
 # Justification
 
-## Provides .red[rationale] for the use/selection of a claim or strategy
-
-## Example
-- Intelligence reports of malicious code in nuclear energy software
+## Provide .red[rationale] for a claim
 
 ---
 exclude: true
