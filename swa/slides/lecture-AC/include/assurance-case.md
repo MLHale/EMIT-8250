@@ -564,13 +564,6 @@ class: middle
 - .red[Avoid drift in the entity of the sub-claim.] It should be related to the entity in the top-level claim or a related entity.
 - Bridge the gap between top-level claim and evidence
 
---
-
-## Stopping condition?
-- The rigor is acceptable
-- Resources are unavailable
-- Further expenditure is not justified
-
 ---
 
 ## Sub-claim
