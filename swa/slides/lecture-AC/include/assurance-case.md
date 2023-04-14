@@ -462,8 +462,8 @@ See notes (hit `p`) for class exercise
 ]
 ???
 # Class exercise:
-# Work with your team to rephrase these appropriately.
-When you are done enter your answers in this [Google Doc](https://docs.google.com/a/unomaha.edu/document/d/11Xr8GHBHfWJGLotiLoe-us1EZ4Qjn2msjfxHAKjs64Q/edit?usp=sharing)
+# Rephrase these appropriately.
+When you are done enter your answers in this [Document](https://docs.google.com/a/unomaha.edu/document/d/11Xr8GHBHfWJGLotiLoe-us1EZ4Qjn2msjfxHAKjs64Q/edit?usp=sharing)
 
 ---
 exclude: true
