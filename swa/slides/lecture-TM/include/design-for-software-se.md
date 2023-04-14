@@ -32,7 +32,7 @@ Evidence-based demonstration, through reasoning, that the system-of-interest is 
 ???
 Now, remember that Software security engineering activities exist within three interacting contexts.
 
-We looked at the problem context using requirements engineering activities and techniques. Then we developed assurance claims, and then argued them using **assurance cases** as part of the trustworthiness context. Now we will see how the solution context transforms the security requirements derived using misuse cases into the system's design requirements.
+We developed assurance claims, and then argued them using **assurance cases** as part of the trustworthiness context. Now we will see how the solution context transforms the security requirements derived using misuse cases into the system's design requirements.
 
 ---
 class: middle
@@ -80,7 +80,7 @@ class: middle
 # Data Flow Diagrams (DFD)
 
 ## DFDs are visual representations of .red[**data flows**] through .green[components of a software program.]
-- A programs execution can be abstracted as:  
+- A program's execution can be abstracted as:  
 Data Source &#8594; .red[Data Transformations] &#8594; Data Sink  
 
 ???
