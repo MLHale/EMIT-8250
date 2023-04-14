@@ -463,7 +463,7 @@ See notes (hit `p`) for class exercise
 ???
 # Class exercise:
 # Rephrase these appropriately.
-When you are done enter your answers in this [Document](https://docs.google.com/a/unomaha.edu/document/d/11Xr8GHBHfWJGLotiLoe-us1EZ4Qjn2msjfxHAKjs64Q/edit?usp=sharing)
+When you are done enter your answers in this [Document](https://unomail-my.sharepoint.com/:w:/g/personal/rgandhi_unomaha_edu/EdY-vVo5_xlBm2TbWE37C5oB5cBE5vZAjCA_JiNR-a3bKg?e=KKHmnX)
 
 ---
 exclude: true
