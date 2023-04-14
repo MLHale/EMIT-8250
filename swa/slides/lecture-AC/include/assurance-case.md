@@ -824,3 +824,6 @@ class: center, middle
 ## .green[All] .blue[Canvas XSS weaknesses] .green[have been sufficiently] .orange[mitigated]
 
 ## .blue[Canvas] .orange[attack surface] .green[is minimized]
+
+Analysis of Security Assuance Cases   
+Mohamad, M., Steghöfer, JP. & Scandariato, R. Security assurance cases—state of the art of an emerging approach. Empir Software Eng 26, 70 (2021). https://doi.org/10.1007/s10664-021-09971-7
