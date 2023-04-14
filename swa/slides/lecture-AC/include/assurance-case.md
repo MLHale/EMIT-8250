@@ -461,9 +461,9 @@ class: middle
 See notes (hit `p`) for class exercise
 ]
 ???
-# Class exercise:
-# Rephrase these appropriately.
-When you are done enter your answers in this [Document](https://unomail-my.sharepoint.com/:w:/g/personal/rgandhi_unomaha_edu/EdY-vVo5_xlBm2TbWE37C5oB5cBE5vZAjCA_JiNR-a3bKg?e=KKHmnX)
+
+Rephrase these appropriately.
+When you are done enter your answers in this [Document](https://unomail-my.sharepoint.com/:w:/g/personal/rgandhi_unomaha_edu/EdY-vVo5_xlBm2TbWE37C5oBD7ZwX3vjrdm4Z1kVWKSAqA?e=J4SAnb)
 
 ---
 exclude: true
